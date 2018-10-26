@@ -22,6 +22,8 @@
               <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
+            <!-- can use something similar to this to switch pages on submit -->
+            <!-- <router-link :to="{name: 'vault', params: {vaultId: Vault.id}}">{{Vault.name}}</router-link> -->
           </form>
 
         </div>
