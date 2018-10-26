@@ -1,6 +1,10 @@
 # websiteivr
 to test: 
 from root folder level on the command line type : "npm run serve"
+
+
+
+
 local host 8080 in browser should display webpage
 inspector tools (f12) includes a vue component.
 ## Project setup
