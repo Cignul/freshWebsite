@@ -1,7 +1,7 @@
 <template>
   <div class="login">
     <header>
-      <img src="../assets/pupLogo.png" class="rounded float-left" alt="Responsive image">
+      <img src="../assets/pupLogo.png" class="rounded float-left">
 
     </header>
     <form>
