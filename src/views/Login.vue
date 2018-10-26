@@ -13,7 +13,7 @@
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
           <form>
-            <div class="form-group">
+            <div class="form-group" aria-hidden="true">
               <label for="exampleInputEmail1">Email address:</label>
               <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
             </div>

@@ -11,10 +11,8 @@ function drawImages(results) {
         <h5 class="card-title ">${image.title}</h5>
         <p>${image.name}</p>
         <p>${image.user}</p>
-        <a href="# " class="btn btn-primary card-body ">purchase</a>
-        <audio controls>
-            <source src="${image.preview}" type=""
-        </audio>
+        <a href="# " class="btn btn-primary card-body ">select</a>
+      
        
     </div>
 </div>
