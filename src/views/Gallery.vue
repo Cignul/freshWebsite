@@ -21,7 +21,7 @@
       <img class="card-img-top" src="../assets/cute-dog-furry-69372.jpg" style="width:18rem;" alt=" picture">
       <h5 class="card-title ">pupper</h5>
 
-      <a href="# " class="btn btn-primary card-body ">select</a>
+      <a href="# " class="btn btn-primary card-body" onclick="enlargeImage()">select</a>
     </div>
 
   </div>
